@@ -2,6 +2,12 @@ venv/
 __pycache__/
 *.pyc
 .env
+.env.*
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
 .vscode/
 *.log
 .pytest_cache/
