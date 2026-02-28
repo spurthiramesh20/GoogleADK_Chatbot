@@ -1,5 +1,0 @@
-{
-  "python.defaultInterpreterPath": "C:\\Users\\SpurthiRamesh\\Desktop\\GoogleADK_Chatbot\\venv\\Scripts\\python.exe",
-  "python.analysis.extraPaths": ["./src"],
-  "python.analysis.diagnosticMode": "openFilesOnly"
-}
